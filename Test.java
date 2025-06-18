@@ -7,7 +7,7 @@ System.out.println("Java is really nice.");
 Runnable r = ()->{
   for(int i=1;i<=10;i++)
     {
-      System.out.println("Java Session : "+i);
+      System.out.println("Java classes : "+i);
       try
         {
           Thread.sleep(300);
