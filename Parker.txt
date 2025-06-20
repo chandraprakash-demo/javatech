@@ -1,1 +1,0 @@
-By the help of git branches, multiple teams can work paralelly and we can make our project delivery process simple.
